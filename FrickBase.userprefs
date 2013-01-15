@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Hit.js">
+    <Files>
+      <File FileName="Assets\Script\Fpiching.js" Line="17" Column="1" />
+      <File FileName="Assets\Script\Ball.js" Line="5" Column="47" />
+      <File FileName="Assets\Script\Hit.js" Line="11" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
